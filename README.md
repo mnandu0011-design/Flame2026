@@ -20,4 +20,4 @@ The Streamlit application loads learned parameters from `model.json`.
 The deployment environment only needs:
 
 - streamlit
-- numpy
+- numpy.
