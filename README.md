@@ -1,4 +1,4 @@
-# FLAME 2026 — Live Neural Network.
+# FLAME 2026 — Live Neural Network
 
 A small neural network trained in Google Colab:
 
